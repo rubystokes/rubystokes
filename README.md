@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m @rubystokes. I'm working to improve my programming, maths and statistics skills so that I can pursue study in computational neuroscience.
+- 👋 Hey there, I’m Ruby. I'm working on improving my programming and maths skills so that I can...I'm not sure. Ever since I tried a bit of coding, I've felt like talking to computers is a bit magical. I'm hooked on solving problems with logic and love the feeling of (finally) solving a programming challenge. My current focus is cryptography.
 
 <!---
 rubystokes/rubystokes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
